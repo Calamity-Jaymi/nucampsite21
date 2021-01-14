@@ -1,5 +1,5 @@
 {
-  "name": "This is a website for the fictional campsites review site NuCamp.",
+  "name": "this-is-a-website-for-the-fictional-campsites-review-site-nucamp.",
   "version": "1.0.0",
   "description": "",
   "main": "index.html",
@@ -8,7 +8,7 @@
     "lite": "lite-server",
     "start": "npm run lite"
   },
-  "author": "Jaymi",
+  "author": "jaymi",
   "license": "ISC",
   "devDependencies": {
     "lite-server": "^2.5.4"
