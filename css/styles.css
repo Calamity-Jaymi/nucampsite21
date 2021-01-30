@@ -25,6 +25,10 @@ h2 {
 	color: #3046c5;
 }
 
+.loginStyle {
+	background-color: #901cad;
+}
+
 .site-footer {
 	background-image: linear-gradient(#cec8ff, white);
 	padding: 20px 0;
