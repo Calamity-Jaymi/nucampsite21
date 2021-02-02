@@ -1,4 +1,4 @@
-<!-- carusouel pause -->
+// carusouel pause 
 $(function () {
 	$(".carousel").carousel({ interval: 200 });
 	$("#carouselButton").click(function () {
