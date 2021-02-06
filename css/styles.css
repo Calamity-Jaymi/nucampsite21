@@ -37,8 +37,19 @@ h2 {
 .carousel {
   border: solid #5637dd; }
 
+/*.campfireimg {
+	border-radius: 100%;
+ }*/
 #carouselButton {
   position: absolute;
   bottom: 0;
   right: 0;
   z-index: 100; }
+
+#reserveModal .modal-header {
+  background-color: #901CAD;
+  color: #fff; }
+
+#loginModal .modal-header {
+  background-color: #17A2B8;
+  color: #fff; }
